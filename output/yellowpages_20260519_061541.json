@@ -1,0 +1,932 @@
+[
+    {
+        "name": "R & R Car Wash Services Inc",
+        "phone": "(713) 731-8308",
+        "address": "4825 Bellfort St",
+        "rating": "",
+        "details": "Auto Oil & Lube",
+        "website": "http://rrcarwashservicesinc.localsearch.com/",
+        "unique_key": "http://rrcarwashservicesinc.localsearch.com/"
+    },
+    {
+        "name": "Soap Hand Car Wash & Detail- Houston",
+        "phone": "(713) 492-0610",
+        "address": "1801 S Shepherd Dr",
+        "rating": "(26)",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://www.soaphandcarwash.com/",
+        "unique_key": "http://www.soaphandcarwash.com/"
+    },
+    {
+        "name": "SOAP Hand Car Wash",
+        "phone": "(713) 636-9646",
+        "address": "3759 Richmond Ave",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://www.soaphand.com/",
+        "unique_key": "http://www.soaphand.com/"
+    },
+    {
+        "name": "MZX Superior Car Wash",
+        "phone": "(281) 859-1225",
+        "address": "5614 Highway 6 N",
+        "rating": "(10)",
+        "details": "Automobile DetailingCar WashAuto Oil & Lube",
+        "website": "http://mzxsuperiorcarwash.localsearch.com/",
+        "unique_key": "http://mzxsuperiorcarwash.localsearch.com/"
+    },
+    {
+        "name": "Mister Car Wash & Express Lube",
+        "phone": "(346) 395-5233",
+        "address": "3150 Kirby Dr",
+        "rating": "(1)",
+        "details": "Automobile DetailingCar Washing & Polishing Equipment & SuppliesCar Wash",
+        "website": "https://mistercarwash.com/store/kirby",
+        "unique_key": "https://mistercarwash.com/store/kirby"
+    },
+    {
+        "name": "Mister Car Wash",
+        "phone": "(832) 678-3102",
+        "address": "9045 Highway 6 S",
+        "rating": "(1)",
+        "details": "Automobile DetailingCar Washing & Polishing Equipment & SuppliesCar Wash",
+        "website": "https://mistercarwash.com/store/addicks-howell",
+        "unique_key": "https://mistercarwash.com/store/addicks-howell"
+    },
+    {
+        "name": "Mister Car Wash & Express Lube",
+        "phone": "(281) 821-0476",
+        "address": "210 Fm 1960 Rd",
+        "rating": "(1)",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://mistercarwash.com/location/1960-e",
+        "unique_key": "http://mistercarwash.com/location/1960-e"
+    },
+    {
+        "name": "Mister Car Wash",
+        "phone": "(832) 678-3108",
+        "address": "7601 Bellaire Blvd",
+        "rating": "",
+        "details": "Automobile DetailingCar Washing & Polishing Equipment & SuppliesCar Wash",
+        "website": "https://mistercarwash.com/store/bellaire",
+        "unique_key": "https://mistercarwash.com/store/bellaire"
+    },
+    {
+        "name": "Dr Gleem Car Wash & Lube Center",
+        "phone": "(713) 862-2496",
+        "address": "3103 Ella Blvd",
+        "rating": "",
+        "details": "Automobile DetailingCar WashAuto Oil & Lube",
+        "website": "http://drgleemcarwashlubecentertx.localsearch.com/",
+        "unique_key": "http://drgleemcarwashlubecentertx.localsearch.com/"
+    },
+    {
+        "name": "DR Gleem Car Wash & Lube Center",
+        "phone": "(281) 580-5686",
+        "address": "3211 Cypress Creek Pkwy",
+        "rating": "",
+        "details": "Automobile DetailingCar WashAuto Oil & Lube",
+        "website": "http://shell.us/",
+        "unique_key": "http://shell.us/"
+    },
+    {
+        "name": "Lazer Car Wash",
+        "phone": "(713) 721-3749",
+        "address": "10900 S Post Oak Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/houston-tx/mip/clearwater-express-wash-577757297",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/clearwater-express-wash-577757297"
+    },
+    {
+        "name": "Mister Car Wash & Express Lube",
+        "phone": "(713) 461-0541",
+        "address": "1038 Gessner Rd",
+        "rating": "(1)",
+        "details": "Automobile DetailingCar Washing & Polishing Equipment & SuppliesCar Wash",
+        "website": "http://mistercarwash.com/",
+        "unique_key": "http://mistercarwash.com/"
+    },
+    {
+        "name": "Elite Car Wash & Auto Care",
+        "phone": "(281) 280-9400",
+        "address": "1515 Bay Area Blvd",
+        "rating": "(14)",
+        "details": "Automobile DetailingCar WashAuto Repair & Service",
+        "website": "http://elitecarwashautocare.localsearch.com/",
+        "unique_key": "http://elitecarwashautocare.localsearch.com/"
+    },
+    {
+        "name": "Superior Almeda Car Wash",
+        "phone": "(713) 943-3434",
+        "address": "10126 Almeda Genoa Rd",
+        "rating": "(5)",
+        "details": "Automobile DetailingCar WashAuto Oil & Lube",
+        "website": "http://yellowpages.com/houston-tx/mip/superior-almeda-car-wash-467185584",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/superior-almeda-car-wash-467185584"
+    },
+    {
+        "name": "Mister Car Wash",
+        "phone": "(281) 856-9274",
+        "address": "7310 Highway 6 N",
+        "rating": "(2)",
+        "details": "Automobile DetailingCar Washing & Polishing Equipment & SuppliesCar Wash",
+        "website": "http://www.mistercarwash.com/",
+        "unique_key": "http://www.mistercarwash.com/"
+    },
+    {
+        "name": "Simoniz Car Wash",
+        "phone": "(281) 498-3228",
+        "address": "7920 Highway 6 S",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://www.cleancarfeeling.com/",
+        "unique_key": "http://www.cleancarfeeling.com/"
+    },
+    {
+        "name": "Itl Hand Car Wash & Detailing",
+        "phone": "(713) 384-2649",
+        "address": "1831 Dart St",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://itlgarage.com/",
+        "unique_key": "http://itlgarage.com/"
+    },
+    {
+        "name": "Mister Car Wash",
+        "phone": "(832) 678-3105",
+        "address": "3522 Washington Ave",
+        "rating": "",
+        "details": "Automobile DetailingCar Washing & Polishing Equipment & SuppliesCar Wash",
+        "website": "https://mistercarwash.com/store/washington-ave",
+        "unique_key": "https://mistercarwash.com/store/washington-ave"
+    },
+    {
+        "name": "Mister Car Wash",
+        "phone": "(713) 691-4636",
+        "address": "640 W Crosstimbers St",
+        "rating": "",
+        "details": "Automobile DetailingCar Washing & Polishing Equipment & SuppliesCar Wash",
+        "website": "https://mistercarwash.com/store/crosstimbers",
+        "unique_key": "https://mistercarwash.com/store/crosstimbers"
+    },
+    {
+        "name": "Mister Car Wash",
+        "phone": "(713) 664-9905",
+        "address": "8810 Main St",
+        "rating": "",
+        "details": "Car Washing & Polishing Equipment & SuppliesCar Wash",
+        "website": "https://mistercarwash.com/store/south-main",
+        "unique_key": "https://mistercarwash.com/store/south-main"
+    },
+    {
+        "name": "Soap Hand Car Wash",
+        "phone": "(713) 979-7798",
+        "address": "1018 Wirt Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "https://soaphandcarwash.com/",
+        "unique_key": "https://soaphandcarwash.com/"
+    },
+    {
+        "name": "Cadillac Express Car Wash",
+        "phone": "(281) 581-7250",
+        "address": "235 E Little York Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar WashTruck Washing & Cleaning",
+        "website": "https://www.cadillacexpresscarwash.com/our-locations",
+        "unique_key": "https://www.cadillacexpresscarwash.com/our-locations"
+    },
+    {
+        "name": "BlueWave Express Car Wash",
+        "phone": "(877) 503-0008",
+        "address": "7964 Long Point Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "https://bluewaveexpress.com/",
+        "unique_key": "https://bluewaveexpress.com/"
+    },
+    {
+        "name": "Mister Car Wash",
+        "phone": "(713) 455-6651",
+        "address": "380 Uvalde Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar Washing & Polishing Equipment & SuppliesCar Wash",
+        "website": "https://mistercarwash.com/store/uvalde",
+        "unique_key": "https://mistercarwash.com/store/uvalde"
+    },
+    {
+        "name": "WhiteWater Express Car Wash",
+        "phone": "(346) 803-3600",
+        "address": "13722 East Fwy",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "https://whitewatercw.com/locations/channelview",
+        "unique_key": "https://whitewatercw.com/locations/channelview"
+    },
+    {
+        "name": "Tidal Wave Auto Spa | Car Wash",
+        "phone": "(706) 558-6500",
+        "address": "11540 Pearland Pkwy",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "https://www.tidalwaveautospa.com/location/houston-tx",
+        "unique_key": "https://www.tidalwaveautospa.com/location/houston-tx"
+    },
+    {
+        "name": "Mister Car Wash",
+        "phone": "(832) 678-3107",
+        "address": "15232 Wallisville Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar Washing & Polishing Equipment & SuppliesCar Wash",
+        "website": "https://mistercarwash.com/store/wallisville",
+        "unique_key": "https://mistercarwash.com/store/wallisville"
+    },
+    {
+        "name": "Bubbly Mobile Car Wash and Detailing",
+        "phone": "(832) 929-8338",
+        "address": "2121 Brittmoore Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://www.bubblynow.com/",
+        "unique_key": "http://www.bubblynow.com/"
+    },
+    {
+        "name": "Mister Car Wash",
+        "phone": "(713) 568-1139",
+        "address": "12552 Richbourgh Rd",
+        "rating": "",
+        "details": "Car Washing & Polishing Equipment & SuppliesCar Wash",
+        "website": "https://mistercarwash.com/store/rankin-road",
+        "unique_key": "https://mistercarwash.com/store/rankin-road"
+    },
+    {
+        "name": "Tunnel Car Wash - CLOSED",
+        "phone": "(713) 268-1626",
+        "address": "6228 Richmond Ave",
+        "rating": "",
+        "details": "Car WashAuto Repair & Service",
+        "website": "http://tunnelcarwash.localsearch.com/",
+        "unique_key": "http://tunnelcarwash.localsearch.com/"
+    },
+    {
+        "name": "Royal Wash Mobile Detailing & Car Wash Service",
+        "phone": "(832) 338-9338",
+        "address": "393 avenue e",
+        "rating": "(4)",
+        "details": "Power WashingCar WashHouse Washing",
+        "website": "http://royalwashmobiledetailingcarwashservice.localsearch.com/",
+        "unique_key": "http://royalwashmobiledetailingcarwashservice.localsearch.com/"
+    },
+    {
+        "name": "Fulshear Car Wash Services",
+        "phone": "(346) 707-8296",
+        "address": "5746 Fm 1463 Rd",
+        "rating": "",
+        "details": "Car WashAutomobile Detailing",
+        "website": "http://yellowpages.com/katy-tx/mip/carpen-car-wash-6500935",
+        "unique_key": "http://yellowpages.com/katy-tx/mip/carpen-car-wash-6500935"
+    },
+    {
+        "name": "Royal Wash - Mobile Detailing & Car Wash Service",
+        "phone": "(832) 338-9338",
+        "rating": "(2)",
+        "details": "Automobile Manufacturers & Distributors",
+        "unique_key": "(832) 338-9338"
+    },
+    {
+        "name": "Elite Auto Spa Usa",
+        "phone": "(855) 625-3487",
+        "rating": "(3)",
+        "details": "Auto Repair & ServiceAutomobile Body Repairing & PaintingPower Washing",
+        "website": "http://eliteautospausa.localsearch.com/",
+        "unique_key": "http://eliteautospausa.localsearch.com/"
+    },
+    {
+        "name": "W.E.T. Inc",
+        "phone": "(281) 657-0575",
+        "address": "14234 Hooper Rd",
+        "rating": "",
+        "details": "Car Washing & Polishing Equipment & SuppliesTruck Washing & Cleaning Equipment & Supplies",
+        "website": "http://www.wet-texas.com/",
+        "unique_key": "http://www.wet-texas.com/"
+    },
+    {
+        "name": "Carriage Glass and Detail",
+        "phone": "(713) 529-6766",
+        "address": "900 Richmond Ave",
+        "rating": "(1)",
+        "details": "Auto Repair & ServiceCar WashPlate & Window Glass Repair & Replacement",
+        "website": "http://carriageglassanddetail.localsearch.com/",
+        "unique_key": "http://carriageglassanddetail.localsearch.com/"
+    },
+    {
+        "name": "CARisma Wash",
+        "phone": "(713) 874-1338",
+        "address": "5203 Kirby Dr",
+        "rating": "",
+        "details": "Car WashAuto Repair & ServiceAutomobile Detailing",
+        "website": "http://carismawash.com/",
+        "unique_key": "http://carismawash.com/"
+    },
+    {
+        "name": "Success Auto",
+        "phone": "(713) 847-6501",
+        "address": "6501 Bellfort St",
+        "rating": "(1)",
+        "details": "Used Car DealersNew Car DealersAuto Repair & Service",
+        "website": "http://successautosalestx.com/",
+        "unique_key": "http://successautosalestx.com/"
+    },
+    {
+        "name": "RPM Automotive Services",
+        "phone": "(713) 780-1356",
+        "address": "8614 Beverly Hill",
+        "rating": "(3)",
+        "details": "Automobile Parts & SuppliesFuel Injection RepairAlternators & Generators-Automotive Repairing",
+        "website": "http://rpmautomotiveservicestx.localsearch.com/",
+        "unique_key": "http://rpmautomotiveservicestx.localsearch.com/"
+    },
+    {
+        "name": "Poutous 1960 Auto Repair",
+        "phone": "(281) 306-9811",
+        "address": "8911 Mills Rd",
+        "rating": "(1)",
+        "details": "Auto Repair & ServiceAutomobile Parts & SuppliesAutomobile Repairing & Service-Equipment & Supplies",
+        "website": "http://www.poutousautorepair.com/",
+        "unique_key": "http://www.poutousautorepair.com/"
+    },
+    {
+        "name": "Honey Farms",
+        "phone": "(713) 529-1622",
+        "address": "2525 S Shepherd Dr",
+        "rating": "",
+        "details": "Convenience StoresPropane & Natural Gas-Equipment & SuppliesCoffee Shops",
+        "website": "https://myhoneyfarms.com/locations/houston-2525-south-shepherd",
+        "unique_key": "https://myhoneyfarms.com/locations/houston-2525-south-shepherd"
+    },
+    {
+        "name": "Honey Farms",
+        "phone": "(713) 781-6665",
+        "address": "5702 Westheimer Rd",
+        "rating": "",
+        "details": "Convenience StoresPropane & Natural Gas-Equipment & SuppliesCoffee Shops",
+        "website": "https://myhoneyfarms.com/locations",
+        "unique_key": "https://myhoneyfarms.com/locations"
+    },
+    {
+        "name": "Honey Farms",
+        "phone": "(713) 686-2223",
+        "address": "8155 Katy Fwy",
+        "rating": "",
+        "details": "Convenience StoresPropane & Natural Gas-Equipment & SuppliesCoffee Shops",
+        "website": "https://myhoneyfarms.com/locations/houston-katy-fwy-2",
+        "unique_key": "https://myhoneyfarms.com/locations/houston-katy-fwy-2"
+    },
+    {
+        "name": "Honey Farms",
+        "phone": "(281) 847-2271",
+        "address": "10303 North Fwy",
+        "rating": "",
+        "details": "Convenience StoresPropane & Natural Gas-Equipment & SuppliesATM Locations",
+        "website": "https://myhoneyfarms.com/locations/houston-north-frwy",
+        "unique_key": "https://myhoneyfarms.com/locations/houston-north-frwy"
+    },
+    {
+        "name": "Honey Farms",
+        "phone": "(281) 447-9416",
+        "address": "12610 State Highway 249",
+        "rating": "",
+        "details": "Convenience StoresPropane & Natural Gas-Equipment & SuppliesCoffee Shops",
+        "website": "https://myhoneyfarms.com/locations/houston-12610-tomball-pkwy",
+        "unique_key": "https://myhoneyfarms.com/locations/houston-12610-tomball-pkwy"
+    },
+    {
+        "name": "Honey Farms",
+        "phone": "(832) 237-8960",
+        "address": "10955 W Sam Houston Pkwy N",
+        "rating": "",
+        "details": "Convenience StoresPropane & Natural Gas-Equipment & SuppliesCoffee Shops",
+        "website": "https://myhoneyfarms.com/locations/houston-10955-w-sam-houston-pkwy-2",
+        "unique_key": "https://myhoneyfarms.com/locations/houston-10955-w-sam-houston-pkwy-2"
+    },
+    {
+        "name": "Honey Farms",
+        "phone": "(281) 807-5677",
+        "address": "17906 Tomball Pkwy",
+        "rating": "",
+        "details": "Convenience StoresPropane & Natural Gas-Equipment & SuppliesCoffee Shops",
+        "website": "https://myhoneyfarms.com/locations/houston-17906-tomball-pkwy",
+        "unique_key": "https://myhoneyfarms.com/locations/houston-17906-tomball-pkwy"
+    },
+    {
+        "name": "Xpress Collision",
+        "phone": "(281) 895-0726",
+        "address": "15306 Stuebner Airline Rd",
+        "rating": "",
+        "details": "Auto Repair & ServiceAutomobile Body Repairing & PaintingAutomobile Diagnostic Service",
+        "unique_key": "(281) 895-0726"
+    },
+    {
+        "name": "Exxon",
+        "phone": "(713) 781-2777",
+        "address": "5902 San Felipe St",
+        "rating": "",
+        "details": "Gas StationsAutomobile Repairing & Service-Equipment & SuppliesAuto Repair & Service",
+        "website": "https://www.exxon.com/en/find-station/200318909",
+        "unique_key": "https://www.exxon.com/en/find-station/200318909"
+    },
+    {
+        "name": "Shell",
+        "phone": "(713) 666-7774",
+        "address": "5270 Beechnut St",
+        "rating": "",
+        "details": "Gas StationsAuto Repair & ServiceConvenience Stores",
+        "website": "https://find.shell.com/us/fuel/10003196-5270-beechnut-st/en_US",
+        "unique_key": "https://find.shell.com/us/fuel/10003196-5270-beechnut-st/en_US"
+    },
+    {
+        "name": "Gulf States Automotive",
+        "phone": "(832) 515-4757",
+        "address": "111 N Post Oak Ln",
+        "rating": "",
+        "details": "Car WashAutomobile DetailingAuto Repair & Service",
+        "website": "https://gs-automotive.com/",
+        "unique_key": "https://gs-automotive.com/"
+    },
+    {
+        "name": "Car Spa",
+        "phone": "(713) 523-5583",
+        "address": "2801 Brazos St",
+        "rating": "",
+        "details": "Car WashAuto Repair & ServiceGas Stations",
+        "website": "http://www.conoco.com/",
+        "unique_key": "http://www.conoco.com/"
+    },
+    {
+        "name": "Readall Auto",
+        "phone": "(281) 501-2941",
+        "address": "3510 Sampson St",
+        "rating": "",
+        "details": "Car WashAuto Repair & ServiceAutomobile Detailing",
+        "website": "http://facebook.com/readallauto/photos/pcb.../437196636477368/?type=3",
+        "unique_key": "http://facebook.com/readallauto/photos/pcb.../437196636477368/?type=3"
+    },
+    {
+        "name": "Washamerica Mobile Washing Service",
+        "phone": "(713) 521-1663",
+        "address": "2828 Mcduffie St",
+        "rating": "",
+        "details": "Building Cleaning-ExteriorPower WashingCar Wash",
+        "website": "http://www.manta.com/c/mt59dd3/all-american-equipment-co",
+        "unique_key": "http://www.manta.com/c/mt59dd3/all-american-equipment-co"
+    },
+    {
+        "name": "Pro Amigo",
+        "phone": "(713) 869-6040",
+        "address": "6408 N Main St",
+        "rating": "",
+        "details": "Automobile DetailingCar WashAuto Repair & Service",
+        "website": "http://theproamigo.procarcarezone.com/",
+        "unique_key": "http://theproamigo.procarcarezone.com/"
+    },
+    {
+        "name": "Medical Center Shell",
+        "phone": "(713) 797-9986",
+        "address": "6935 Almeda Rd",
+        "rating": "",
+        "details": "Gas StationsAuto Repair & ServiceCar Wash",
+        "website": "http://shell.com/",
+        "unique_key": "http://shell.com/"
+    },
+    {
+        "name": "Sparklez Car Wash",
+        "phone": "(346) 219-0393",
+        "address": "8905 Broadway St",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/houston-tx/mip/hobby-car-wash-storages-460519822",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/hobby-car-wash-storages-460519822"
+    },
+    {
+        "name": "Swish Car Wash",
+        "phone": "(832) 925-8168",
+        "address": "9235 Westheimer Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://instagram.com/swishcarwash",
+        "unique_key": "http://instagram.com/swishcarwash"
+    },
+    {
+        "name": "Clean N Easy Car Wash",
+        "phone": "(832) 767-5427",
+        "address": "13722 Almeda Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/houston-tx/mip/clean-n-easy-car-wash-503128403",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/clean-n-easy-car-wash-503128403"
+    },
+    {
+        "name": "Five Star Hand Car Wash",
+        "phone": "(832) 460-0600",
+        "address": "8301 Beechnut St Ste D",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://fivestarhandcarwash.localsearch.com/",
+        "unique_key": "http://fivestarhandcarwash.localsearch.com/"
+    },
+    {
+        "name": "ADS Car Wash",
+        "phone": "(281) 481-1364",
+        "address": "10030 Blackhawk Blvd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://adscarwash.localsearch.com/",
+        "unique_key": "http://adscarwash.localsearch.com/"
+    },
+    {
+        "name": "Spout Car Wash",
+        "phone": "(832) 243-4135",
+        "address": "11300 Bissonnet St",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/houston-tx/mip/oasis-car-care-3677376",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/oasis-car-care-3677376"
+    },
+    {
+        "name": "Minh Dinh Car Wash",
+        "phone": "(281) 575-9698",
+        "address": "11903 Corona Ln",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/houston-tx/mip/professional-auto-cleaning-30104726",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/professional-auto-cleaning-30104726"
+    },
+    {
+        "name": "Sparkles Hand Car Wash",
+        "phone": "(832) 243-4598",
+        "address": "14520 Memorial Dr",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://sparkleshandcarwash.com/",
+        "unique_key": "http://sparkleshandcarwash.com/"
+    },
+    {
+        "name": "Minh Dinh Car Wash",
+        "phone": "(281) 575-9698",
+        "address": "12705 Alief Clodine Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://minhdinhcarwashtx.localsearch.com/",
+        "unique_key": "http://minhdinhcarwashtx.localsearch.com/"
+    },
+    {
+        "name": "Car Wash Depot",
+        "phone": "(281) 809-8652",
+        "address": "12765 Medfield Dr",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/houston-tx/mip/let-it-shine-car-wash-578589324",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/let-it-shine-car-wash-578589324"
+    },
+    {
+        "name": "Paradise Car Wash",
+        "phone": "(832) 237-6324",
+        "address": "10060 West Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar WashAuto Repair & Service",
+        "website": "http://www.paradisecarwash.com/",
+        "unique_key": "http://www.paradisecarwash.com/"
+    },
+    {
+        "name": "Shiny Car Wash",
+        "phone": "(832) 243-6578",
+        "address": "13574 Bellaire Blvd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/houston-tx/mip/simoniz-car-wash-8354533",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/simoniz-car-wash-8354533"
+    },
+    {
+        "name": "Blue Frog Hand Car Wash",
+        "phone": "(281) 406-8792",
+        "address": "1585 Highway 6 S Ste D",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/houston-tx/mip/super-shine-car-wash-lube-westheimer-rd-567864643",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/super-shine-car-wash-lube-westheimer-rd-567864643"
+    },
+    {
+        "name": "Washable Car Wash & Auto Detailing",
+        "phone": "(346) 367-4199",
+        "address": "2310 Cypress Creek Pkwy",
+        "rating": "",
+        "details": "Automobile Detailing",
+        "website": "http://washablecarwashautodetailing.localsearch.com/",
+        "unique_key": "http://washablecarwashautodetailing.localsearch.com/"
+    },
+    {
+        "name": "Lone Star Car Wash Systems",
+        "phone": "(281) 469-3653",
+        "address": "11500 Fm 1960 Rd W",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://lonestarcarwashsystems.com/",
+        "unique_key": "http://lonestarcarwashsystems.com/"
+    },
+    {
+        "name": "Four Seasons Car Wash",
+        "phone": "(281) 345-7494",
+        "address": "14516 West Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/houston-tx/mip/quick-quack-car-wash-578613280",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/quick-quack-car-wash-578613280"
+    },
+    {
+        "name": "Super Shine Car Wash & Lube",
+        "phone": "(281) 894-4685",
+        "address": "12702 Jones Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar WashAuto Oil & Lube",
+        "website": "https://carwashsupershine.com/",
+        "unique_key": "https://carwashsupershine.com/"
+    },
+    {
+        "name": "Rapid Car Wash",
+        "phone": "(832) 478-5479",
+        "address": "10470 Huffmeister Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/houston-tx/mip/jet-stream-mobile-carwash-577372157",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/jet-stream-mobile-carwash-577372157"
+    },
+    {
+        "name": "Scrubs Car & Pet Wash",
+        "phone": "(832) 688-5008",
+        "address": "10816 Huffmeister Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/houston-tx/mip/mobile-grooming-by-shelias-pet-palace-16597929",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/mobile-grooming-by-shelias-pet-palace-16597929"
+    },
+    {
+        "name": "West Oaks Car Wash and Lube Center",
+        "phone": "(281) 589-0116",
+        "address": "13838 Westheimer Rd",
+        "rating": "(4)",
+        "details": "Automobile DetailingAuto Oil & LubeCar Wash",
+        "website": "http://yellowpages.com/houston-tx/mip/kwik-kar-13937319",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/kwik-kar-13937319"
+    },
+    {
+        "name": "Bluewave Express Car Wash",
+        "phone": "(281) 955-0072",
+        "address": "9801 Jones Rd",
+        "rating": "(3)",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://www.bluewaveexpress.com/",
+        "unique_key": "http://www.bluewaveexpress.com/"
+    },
+    {
+        "name": "Texas Car Wash Co",
+        "phone": "(713) 896-8124",
+        "address": "6016 N Eldridge Pkwy",
+        "rating": "(2)",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://texascarwash.com/",
+        "unique_key": "http://texascarwash.com/"
+    },
+    {
+        "name": "Uptown Car Wash (Houston)",
+        "phone": "(713) 572-8000",
+        "address": "5138 San Felipe St",
+        "rating": "(4)",
+        "details": "Automobile DetailingCar Wash",
+        "unique_key": "(713) 572-8000"
+    },
+    {
+        "name": "Regency Car Wash",
+        "phone": "(281) 586-9274",
+        "address": "11722 Veterans Memorial Dr",
+        "rating": "(1)",
+        "details": "Automobile DetailingCar WashUsed Car Dealers",
+        "website": "http://diamondcarwash.com/",
+        "unique_key": "http://diamondcarwash.com/"
+    },
+    {
+        "name": "Vintage Car Wash & Lube Center",
+        "phone": "(281) 251-6325",
+        "address": "9855 Louetta Rd",
+        "rating": "(1)",
+        "details": "Automobile DetailingCar WashAuto Oil & Lube",
+        "website": "http://vintagecarwashlubecenter.localsearch.com/",
+        "unique_key": "http://vintagecarwashlubecenter.localsearch.com/"
+    },
+    {
+        "name": "Mister Car Wash",
+        "phone": "(713) 521-1160",
+        "address": "5102 Kirby Dr",
+        "rating": "",
+        "details": "Automobile DetailingCar Washing & Polishing Equipment & SuppliesCar Wash",
+        "website": "https://mistercarwash.com/store/upper-kirby",
+        "unique_key": "https://mistercarwash.com/store/upper-kirby"
+    },
+    {
+        "name": "Mister Car Wash",
+        "phone": "(713) 777-9019",
+        "address": "6107 Hillcroft St",
+        "rating": "",
+        "details": "Automobile DetailingCar Washing & Polishing Equipment & SuppliesCar Wash",
+        "website": "https://mistercarwash.com/store/hillcroft",
+        "unique_key": "https://mistercarwash.com/store/hillcroft"
+    },
+    {
+        "name": "Wetzone Car Wash",
+        "phone": "(713) 895-7434",
+        "address": "7316 W Tidwell Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar WashNew Car Dealers",
+        "website": "http://www.wetzonecarwash.com/",
+        "unique_key": "http://www.wetzonecarwash.com/"
+    },
+    {
+        "name": "Cc Unique Detail Car Wash",
+        "phone": "(713) 747-0018",
+        "address": "6728 Cullen Blvd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/houston-tx/mip/bay-bright-car-wash-541077474",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/bay-bright-car-wash-541077474"
+    },
+    {
+        "name": "Super Tech Car Wash",
+        "phone": "(281) 583-7786",
+        "address": "11302 Veterans Memorial Dr",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://super-tech-car-wash.hub.biz/",
+        "unique_key": "http://super-tech-car-wash.hub.biz/"
+    },
+    {
+        "name": "Extreme Car Wash & Detailing",
+        "phone": "(713) 943-1185",
+        "address": "402 Richey Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://extremecarwashdetailing.localsearch.com/",
+        "unique_key": "http://extremecarwashdetailing.localsearch.com/"
+    },
+    {
+        "name": "Splash Hand Car Wash",
+        "phone": "(713) 266-9274",
+        "address": "8730 Westheimer Rd",
+        "rating": "(4)",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://splashhandcarwashtx.localsearch.com/",
+        "unique_key": "http://splashhandcarwashtx.localsearch.com/"
+    },
+    {
+        "name": "Classic Hand Car Wash",
+        "phone": "(281) 855-3331",
+        "address": "4976 Highway 6 N",
+        "rating": "(1)",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://classichandcarwashtx.localsearch.com/",
+        "unique_key": "http://classichandcarwashtx.localsearch.com/"
+    },
+    {
+        "name": "Best Hand Car Wash 2",
+        "phone": "(713) 784-3209",
+        "address": "6521 Del Monte Dr",
+        "rating": "(3)",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://www.besthandcarwash2.com/",
+        "unique_key": "http://www.besthandcarwash2.com/"
+    },
+    {
+        "name": "Splash Handwash Car Wash",
+        "phone": "(713) 525-5151",
+        "address": "2203 S Shepherd Dr",
+        "rating": "(2)",
+        "details": "Automobile DetailingCar Wash",
+        "website": "https://splashhtx.com/location",
+        "unique_key": "https://splashhtx.com/location"
+    },
+    {
+        "name": "Hallelujah Hand Car Wash",
+        "phone": "(713) 552-1910",
+        "address": "5434 Richmond Ave",
+        "rating": "(1)",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://hallelujahhandcarwash.com/",
+        "unique_key": "http://hallelujahhandcarwash.com/"
+    },
+    {
+        "name": "AJ Mr. Clean Car Wash & Lube Center",
+        "phone": "(281) 589-2228",
+        "address": "12573 Richmond Ave",
+        "rating": "(1)",
+        "details": "Automobile DetailingCar WashAuto Oil & Lube",
+        "website": "http://ajmrcleancarwashlubecenter.localsearch.com/",
+        "unique_key": "http://ajmrcleancarwashlubecenter.localsearch.com/"
+    },
+    {
+        "name": "Mister Car Wash",
+        "phone": "(713) 783-5780",
+        "address": "2251 S Voss Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "https://mistercarwash.com/store/voss",
+        "unique_key": "https://mistercarwash.com/store/voss"
+    },
+    {
+        "name": "Cellular & Car Wash Corner",
+        "phone": "(713) 931-4085",
+        "address": "6410 Windswept Ln Suite C",
+        "rating": "",
+        "details": "Car Washing & Polishing Equipment & SuppliesCellular Telephone Equipment & Supplies",
+        "website": "http://cellularcarwashcorner.localsearch.com/",
+        "unique_key": "http://cellularcarwashcorner.localsearch.com/"
+    },
+    {
+        "name": "Mister Car Wash",
+        "phone": "(713) 789-6935",
+        "address": "10760 Westheimer Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar Washing & Polishing Equipment & SuppliesCar Wash",
+        "website": "https://mistercarwash.com/store/westheimer",
+        "unique_key": "https://mistercarwash.com/store/westheimer"
+    },
+    {
+        "name": "Platinum Hand Car Wash & Dtl",
+        "phone": "(832) 767-6575",
+        "address": "1311 Leeland St",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://platinumhandcarwashdtl.localsearch.com/",
+        "unique_key": "http://platinumhandcarwashdtl.localsearch.com/"
+    },
+    {
+        "name": "Mr Details Hand Car Wash",
+        "phone": "(713) 426-0503",
+        "address": "3219 White Oak Dr",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/houston-tx/mip/keep-it-clean-3676389",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/keep-it-clean-3676389"
+    },
+    {
+        "name": "Vasquez Hands Car Wash",
+        "phone": "(713) 861-6690",
+        "address": "4605 N Main St",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/houston-tx/mip/vasquez-hands-car-wash-461783887",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/vasquez-hands-car-wash-461783887"
+    },
+    {
+        "name": "Extreme Car Wash & Detailing",
+        "phone": "(713) 943-1185",
+        "address": "402 S Richie Ave",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://extremecarwashdetailingtx.localsearch.com/",
+        "unique_key": "http://extremecarwashdetailingtx.localsearch.com/"
+    },
+    {
+        "name": "Wash Houston Car Wash - CLOSED",
+        "phone": "(832) 372-0560",
+        "address": "930 Malone St",
+        "rating": "",
+        "details": "Car Washing & Polishing Equipment & SuppliesCar Wash",
+        "website": "http://washhoustoncarwash.localsearch.com/",
+        "unique_key": "http://washhoustoncarwash.localsearch.com/"
+    },
+    {
+        "name": "The Car Wash - CLOSED",
+        "phone": "(713) 741-6800",
+        "address": "4525 Old Spanish Trl",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://thecarwash460258882.localsearch.com/",
+        "unique_key": "http://thecarwash460258882.localsearch.com/"
+    },
+    {
+        "name": "Sparkles Car Wash - CLOSED",
+        "address": "17420 W Little York Rd Ste D",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/houston-tx/mip/mister-car-wash-511626455",
+        "unique_key": "http://yellowpages.com/houston-tx/mip/mister-car-wash-511626455"
+    },
+    {
+        "name": "Super Clean Car Wash - CLOSED",
+        "phone": "(832) 831-0659",
+        "address": "2616 Winrock Blvd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://super-clean-car-wash-tx.hub.biz/",
+        "unique_key": "http://super-clean-car-wash-tx.hub.biz/"
+    }
+]

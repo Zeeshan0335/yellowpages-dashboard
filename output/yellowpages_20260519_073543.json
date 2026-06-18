@@ -1,0 +1,298 @@
+[
+    {
+        "name": "Power Pro Plumbing Heating & Air",
+        "details": "PlumbersSewer ContractorsWater Heaters",
+        "unique_key": "Power Pro Plumbing Heating & Air_"
+    },
+    {
+        "name": "Best Home Savings",
+        "details": "PlumbersWater HeatersPlumbing Contractors-Commercial & Industrial",
+        "unique_key": "Best Home Savings_"
+    },
+    {
+        "name": "Rene's Plumbing Repair",
+        "details": "PlumbersLeak Detecting ServiceHeating Contractors & SpecialtiesWater Heaters",
+        "unique_key": "Rene's Plumbing Repair_"
+    },
+    {
+        "name": "R.B. Plumbing",
+        "details": "PlumbersSewer Cleaners & RepairersWater HeatersWater Heater Repair",
+        "unique_key": "R.B. Plumbing_"
+    },
+    {
+        "name": "Burgeson's Heating, A/C, Electrical, Solar & Plumbing",
+        "details": "PlumbersHeating Equipment & SystemsSolar Energy Equipment & Systems-Dealers",
+        "unique_key": "Burgeson's Heating, A/C, Electrical, Solar & Plumbing_"
+    },
+    {
+        "name": "Prodigy Plumbing",
+        "details": "PlumbersLeak Detecting ServiceWater Heater Repair",
+        "unique_key": "Prodigy Plumbing_"
+    },
+    {
+        "name": "Power Pro Plumbing Heating & Air Conditioning",
+        "details": "PlumbersWater HeatersPlumbing-Drain & Sewer CleaningSeptic Tanks & Systems",
+        "unique_key": "Power Pro Plumbing Heating & Air Conditioning_"
+    },
+    {
+        "name": "Ernie & Sons Plumbing",
+        "details": "PlumbersWater Heaters",
+        "unique_key": "Ernie & Sons Plumbing_"
+    },
+    {
+        "name": "AAA Plumbing Heating & Air",
+        "details": "PlumbersVentilating Contractors",
+        "unique_key": "AAA Plumbing Heating & Air_"
+    },
+    {
+        "name": "Padgett Plumbing",
+        "details": "PlumbersWater Heater RepairPlumbing-Drain & Sewer Cleaning",
+        "unique_key": "Padgett Plumbing_"
+    },
+    {
+        "name": "Kim's Plumbing",
+        "phone": "(559) 421-1706",
+        "address": "1390 E Springfield Ave",
+        "rating": "",
+        "details": "PlumbersDrainage ContractorsWater Heater Repair",
+        "website": "http://www.kimsplumbing.net/",
+        "unique_key": "http://www.kimsplumbing.net/"
+    },
+    {
+        "name": "Best Home Savings",
+        "phone": "(855) 566-6978",
+        "rating": "",
+        "details": "PlumbersPlumbing Contractors-Commercial & IndustrialWater Heaters",
+        "website": "https://www.yellowpages.com/nationwide/mip/best-home-savings-580143680?lid=1002194693872",
+        "unique_key": "https://www.yellowpages.com/nationwide/mip/best-home-savings-580143680?lid=1002194693872"
+    },
+    {
+        "name": "Gary's D-Rooting Service",
+        "phone": "(559) 298-6476",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "http://www.garysfresnoplumbing.com/",
+        "unique_key": "http://www.garysfresnoplumbing.com/"
+    },
+    {
+        "name": "JPRC Plumbing Inc",
+        "phone": "(559) 281-5356",
+        "address": "1390 E Springfield Ave",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "https://jprcplumbing.com/",
+        "unique_key": "https://jprcplumbing.com/"
+    },
+    {
+        "name": "All Weather A/C, Heating, Refrigeration & Hydro Rooter Plumbing",
+        "phone": "(559) 871-9533",
+        "rating": "",
+        "details": "PlumbersHeating Contractors & SpecialtiesAir Conditioning Contractors & Systems",
+        "website": "http://allweatherca.com/",
+        "unique_key": "http://allweatherca.com/"
+    },
+    {
+        "name": "Stalie Plumbing Service",
+        "phone": "(559) 896-8562",
+        "rating": "(1)",
+        "details": "Plumbers",
+        "website": "http://stalieplumbingservice.localsearch.com/",
+        "unique_key": "http://stalieplumbingservice.localsearch.com/"
+    },
+    {
+        "name": "U Save More Rooter & Plumbing",
+        "phone": "(559) 403-6634",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "http://usavemorerooterplumbing.localsearch.com/",
+        "unique_key": "http://usavemorerooterplumbing.localsearch.com/"
+    },
+    {
+        "name": "Art Douglas",
+        "phone": "(559) 514-6053",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "http://artdouglasca.localsearch.com/",
+        "unique_key": "http://artdouglasca.localsearch.com/"
+    },
+    {
+        "name": "McClard Plumbing Inc",
+        "phone": "(888) 381-0118",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "http://mcclardplumbingincca.localsearch.com/",
+        "unique_key": "http://mcclardplumbingincca.localsearch.com/"
+    },
+    {
+        "name": "All Star Plumbing",
+        "phone": "(559) 675-3366",
+        "rating": "",
+        "details": "PlumbersWater Heater RepairBoiler Repair & Cleaning",
+        "website": "http://www.allstarplumbingfresno.com/",
+        "unique_key": "http://www.allstarplumbingfresno.com/"
+    },
+    {
+        "name": "PRO Rooter & Septic Service",
+        "phone": "(559) 664-1766",
+        "rating": "",
+        "details": "PlumbersSeptic Tanks & SystemsPlumbing-Drain & Sewer Cleaning",
+        "website": "http://prorootersepticservice560398461.localsearch.com/",
+        "unique_key": "http://prorootersepticservice560398461.localsearch.com/"
+    },
+    {
+        "name": "Ritz Plumbing & Heating Service",
+        "phone": "(559) 742-4371",
+        "rating": "",
+        "details": "PlumbersHeating Contractors & SpecialtiesPaving Contractors",
+        "website": "http://ritzplumbingheatingservice560311629.localsearch.com/",
+        "unique_key": "http://ritzplumbingheatingservice560311629.localsearch.com/"
+    },
+    {
+        "name": "Ritz Plumbing & Heating Service",
+        "phone": "(559) 316-0681",
+        "rating": "",
+        "details": "PlumbersHeating Contractors & SpecialtiesAir Conditioning Contractors & Systems",
+        "website": "http://www.ritzplumbing.com/",
+        "unique_key": "http://www.ritzplumbing.com/"
+    },
+    {
+        "name": "Roberson Plumbing",
+        "phone": "(559) 626-4481",
+        "address": "6251 S Anchor Ave",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "http://robersonplumbingca.localsearch.com/",
+        "unique_key": "http://robersonplumbingca.localsearch.com/"
+    },
+    {
+        "name": "Chet's Plumbing",
+        "phone": "(559) 638-2930",
+        "address": "1605 E Manning Ave",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "https://chetsplumbingco.com/",
+        "unique_key": "https://chetsplumbingco.com/"
+    },
+    {
+        "name": "Frank Williams Plumbing",
+        "phone": "(916) 331-1030",
+        "address": "PO Box 58",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "http://frankwilliamsplumbingca.localsearch.com/",
+        "unique_key": "http://frankwilliamsplumbingca.localsearch.com/"
+    },
+    {
+        "name": "Plumbing Bro's",
+        "phone": "(559) 903-0429",
+        "address": "29013 Burrough Valley Rd",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "http://theplumbingbros.com/",
+        "unique_key": "http://theplumbingbros.com/"
+    },
+    {
+        "name": "Gary's Plumbing",
+        "phone": "(559) 864-0321",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "http://garysdrooting.com/",
+        "unique_key": "http://garysdrooting.com/"
+    },
+    {
+        "name": "5 Star Drain Service",
+        "phone": "(559) 675-8684",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "http://5stardrainservice.localsearch.com/",
+        "unique_key": "http://5stardrainservice.localsearch.com/"
+    },
+    {
+        "name": "Art Douglas Plumbing Inc",
+        "phone": "(559) 661-1060",
+        "rating": "",
+        "details": "PlumbersBathtubs & Sinks-Repair & RefinishGarbage Disposal Repair",
+        "website": "http://www.artdouglasplumbing.com/",
+        "unique_key": "http://www.artdouglasplumbing.com/"
+    },
+    {
+        "name": "M & M Plumbing",
+        "phone": "(559) 675-1282",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "http://mmplumbing463079119.localsearch.com/",
+        "unique_key": "http://mmplumbing463079119.localsearch.com/"
+    },
+    {
+        "name": "Mendes Plumbing",
+        "phone": "(559) 935-5325",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "http://mendesplumbing.com/",
+        "unique_key": "http://mendesplumbing.com/"
+    },
+    {
+        "name": "Plumbing Reedley",
+        "phone": "(559) 768-1010",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "https://voxservices.net/plumbing/reedley/ca/20143/plumbingreedley",
+        "unique_key": "https://voxservices.net/plumbing/reedley/ca/20143/plumbingreedley"
+    },
+    {
+        "name": "Kelly Jones Plumbing",
+        "phone": "(559) 891-1740",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "http://kellyjonesplumbing.localsearch.com/",
+        "unique_key": "http://kellyjonesplumbing.localsearch.com/"
+    },
+    {
+        "name": "Discount Plumbing",
+        "phone": "(559) 395-6092",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "http://discountplumbing522178389.localsearch.com/",
+        "unique_key": "http://discountplumbing522178389.localsearch.com/"
+    },
+    {
+        "name": "Fowler Plumbing",
+        "phone": "(559) 814-0014",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "https://voxservices.net/plumbing/fowler/ca/20147/fowlerplumbing",
+        "unique_key": "https://voxservices.net/plumbing/fowler/ca/20147/fowlerplumbing"
+    },
+    {
+        "name": "Plumbing Orange Cove",
+        "phone": "(559) 249-5007",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "http://yellowpages.com/orange-cove-ca/mip/roberson-plumbing-466838602",
+        "unique_key": "http://yellowpages.com/orange-cove-ca/mip/roberson-plumbing-466838602"
+    },
+    {
+        "name": "Plumbing Madera",
+        "phone": "(559) 330-1591",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "https://voxservices.net/plumbing/madera/ca/20077/plumbingmadera",
+        "unique_key": "https://voxservices.net/plumbing/madera/ca/20077/plumbingmadera"
+    },
+    {
+        "name": "Plumbing",
+        "phone": "(805) 244-6461",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "https://voxservices.net/plumbing/selma/ca/27031/plumbing",
+        "unique_key": "https://voxservices.net/plumbing/selma/ca/27031/plumbing"
+    },
+    {
+        "name": "Plumbing Firebaugh",
+        "phone": "(559) 296-0015",
+        "rating": "",
+        "details": "Plumbers",
+        "website": "https://voxservices.net/plumbing/firebaugh/ca/20067/plumbingfirebaugh",
+        "unique_key": "https://voxservices.net/plumbing/firebaugh/ca/20067/plumbingfirebaugh"
+    }
+]

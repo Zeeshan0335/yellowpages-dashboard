@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Yellow Pages Dashboard</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+
+        body{
+            background:#f5f7fb;
+        }
+
+        .card-stat{
+            border:none;
+            border-radius:15px;
+            box-shadow:0 2px 8px rgba(0,0,0,.08);
+        }
+
+        .table-container{
+            background:#fff;
+            padding:20px;
+            border-radius:15px;
+            box-shadow:0 2px 8px rgba(0,0,0,.08);
+        }
+
+        .action-bar{
+            display:flex;
+            gap:10px;
+            flex-wrap:wrap;
+        }
+
+        .pagination{
+            margin-top:20px;
+        }
+
+    </style>
+
+</head>
+<body>
+
+<div class="container-fluid py-4">
+
+    <div class="mb-4">
+
+        <h2 class="fw-bold">
+            Yellow Pages Admin Dashboard
+        </h2>
+
+        <p class="text-muted">
+            Manage scraped business data
+        </p>
+
+    </div>
+
+    <!-- STATS -->
+
+    <div class="row g-3 mb-4">
+
+        <div class="col-md-3">
+
+            <div class="card card-stat">
+
+                <div class="card-body">
+
+                    <h6>Total Records</h6>
+
+                    <h2>{{ stats.total }}</h2>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-3">
+
+            <div class="card card-stat">
+
+                <div class="card-body">
+
+                    <h6>With Website</h6>
+
+                    <h2>{{ stats.website }}</h2>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-3">
+
+            <div class="card card-stat">
+
+                <div class="card-body">
+
+                    <h6>With Phone</h6>
+
+                    <h2>{{ stats.phone }}</h2>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-3">
+
+            <div class="card card-stat">
+
+                <div class="card-body">
+
+                    <h6>Today's Records</h6>
+
+                    <h2>{{ stats.today }}</h2>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- FILTERS -->
+
+    <div class="card mb-4">
+
+        <div class="card-body">
+
+            <form method="GET">
+
+                <div class="row g-3">
+
+                    <div class="col-md-4">
+
+                        <input
+                            type="text"
+                            class="form-control"
+                            name="q"
+                            placeholder="Search..."
+                            value="{{ query }}"
+                        >
+
+                    </div>
+
+                    <div class="col-md-3">
+
+                        <input
+                            type="text"
+                            class="form-control"
+                            name="location"
+                            placeholder="Location"
+                            value="{{ location }}"
+                        >
+
+                    </div>
+
+                    <div class="col-md-2">
+
+                        <select
+                            name="has_website"
+                            class="form-select"
+                        >
+
+                            <option value="">
+                                Website Filter
+                            </option>
+
+                            <option
+                                value="yes"
+                                {% if has_website == "yes" %}
+                                selected
+                                {% endif %}
+                            >
+                                Has Website
+                            </option>
+
+                            <option
+                                value="no"
+                                {% if has_website == "no" %}
+                                selected
+                                {% endif %}
+                            >
+                                No Website
+                            </option>
+
+                        </select>
+
+                    </div>
+
+                    <div class="col-md-2">
+
+                        <select
+                            name="page_size"
+                            class="form-select"
+                        >
+
+                            {% for size in page_size_options %}
+
+                            <option
+                                value="{{ size }}"
+                                {% if size == page_size %}
+                                selected
+                                {% endif %}
+                            >
+                                {{ size }}
+                            </option>
+
+                            {% endfor %}
+
+                        </select>
+
+                    </div>
+
+                    <div class="col-md-1">
+
+                        <button
+                            class="btn btn-primary w-100"
+                            type="submit"
+                        >
+                            Search
+                        </button>
+
+                    </div>
+
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+
+    <!-- ACTIONS -->
+
+    <div class="action-bar mb-3">
+
+        <a
+            href="/export/csv"
+            class="btn btn-success"
+        >
+            Export CSV
+        </a>
+
+        <a
+            href="/export/excel"
+            class="btn btn-success"
+        >
+            Export Excel
+        </a>
+
+    </div>
+
+    <!-- TABLE -->
+
+    <form
+        action="/bulk-delete"
+        method="post"
+    >
+
+        <div class="table-container">
+
+            <div class="mb-3">
+
+                <button
+                    type="submit"
+                    class="btn btn-danger"
+                >
+                    Delete Selected
+                </button>
+
+            </div>
+
+            <div class="table-responsive">
+
+                <table class="table table-bordered table-hover">
+
+                    <thead>
+
+                    <tr>
+
+                        <th>
+
+                            <input
+                                type="checkbox"
+                                id="select-all"
+                            >
+
+                        </th>
+
+                        <th>Name</th>
+
+                        <th>Phone</th>
+
+                        <th>Address</th>
+
+                        <th>Website</th>
+
+                        <th>Location</th>
+
+                        <th>Scraped Date</th>
+
+                        <th>Actions</th>
+
+                    </tr>
+
+                    </thead>
+
+                    <tbody>
+
+                    {% for item in records %}
+
+                    <tr>
+
+                        <td>
+
+                            <input
+                                type="checkbox"
+                                name="selected_ids"
+                                value="{{ item._id }}"
+                            >
+
+                        </td>
+
+                        <td>{{ item.name or '' }}</td>
+
+                        <td>{{ item.phone or '' }}</td>
+
+                        <td>{{ item.address or '' }}</td>
+
+                        <td>
+
+                            {% if item.website %}
+
+                            <a
+                                href="{{ item.website }}"
+                                target="_blank"
+                            >
+                                Visit
+                            </a>
+
+                            {% endif %}
+
+                        </td>
+
+                        <td>
+                            {{ item.search_location or '' }}
+                        </td>
+
+                        <td>
+                            {{ item.scraped_at or '' }}
+                        </td>
+
+                        <td>
+
+                            <form
+                                action="/delete/{{ item._id }}"
+                                method="post"
+                            >
+
+                                <button
+                                    class="btn btn-sm btn-danger"
+                                >
+                                    Delete
+                                </button>
+
+                            </form>
+
+                        </td>
+
+                    </tr>
+
+                    {% endfor %}
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </div>
+
+    </form>
+
+    <!-- PAGINATION -->
+
+    <nav>
+
+        <ul class="pagination justify-content-center">
+
+            {% if page > 1 %}
+
+            <li class="page-item">
+
+                <a
+                    class="page-link"
+                    href="?page={{ page-1 }}&page_size={{ page_size }}&q={{ query }}&location={{ location }}&has_website={{ has_website }}"
+                >
+                    Previous
+                </a>
+
+            </li>
+
+            {% endif %}
+
+            <li class="page-item active">
+
+                <span class="page-link">
+
+                    Page {{ page }}
+                    of
+                    {{ total_pages }}
+
+                </span>
+
+            </li>
+
+            {% if page < total_pages %}
+
+            <li class="page-item">
+
+                <a
+                    class="page-link"
+                    href="?page={{ page+1 }}&page_size={{ page_size }}&q={{ query }}&location={{ location }}&has_website={{ has_website }}"
+                >
+                    Next
+                </a>
+
+            </li>
+
+            {% endif %}
+
+        </ul>
+
+    </nav>
+
+</div>
+
+<script>
+
+document
+.getElementById("select-all")
+.addEventListener(
+    "change",
+    function(){
+
+        const checkboxes =
+            document.querySelectorAll(
+                "input[name='selected_ids']"
+            );
+
+        checkboxes.forEach(
+            checkbox =>
+                checkbox.checked = this.checked
+        );
+    }
+);
+
+</script>
+
+</body>
+</html>

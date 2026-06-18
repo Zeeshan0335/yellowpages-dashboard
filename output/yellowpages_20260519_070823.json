@@ -1,0 +1,234 @@
+[
+    {
+        "name": "Adam's Car Wash SVC",
+        "phone": "(559) 797-2849",
+        "address": "2518 N Mccall Ave",
+        "rating": "",
+        "details": "Fix-It Shops",
+        "website": "http://valli-gas-car-wash.hub.biz/",
+        "unique_key": "http://valli-gas-car-wash.hub.biz/"
+    },
+    {
+        "name": "Adam's Car Wash SVC",
+        "phone": "(559) 797-2849",
+        "address": "2518 N Mccall Ave",
+        "rating": "",
+        "details": "Fix-It Shops",
+        "unique_key": "(559) 797-2849"
+    },
+    {
+        "name": "Kimo's Tropical Car Wash",
+        "phone": "(559) 637-1771",
+        "address": "790 I St",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://kimoscarwash.com/",
+        "unique_key": "http://kimoscarwash.com/"
+    },
+    {
+        "name": "Movil Car Wash Detayado",
+        "phone": "(559) 412-1295",
+        "address": "1418 Harris Ct",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://movilcarwashdetayado.localsearch.com/",
+        "unique_key": "http://movilcarwashdetayado.localsearch.com/"
+    },
+    {
+        "name": "Palm Olive Car Wash",
+        "phone": "(559) 264-7271",
+        "address": "1145 Palm Ave",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/fowler-ca/mip/palm-olive-car-wash-459600342",
+        "unique_key": "http://yellowpages.com/fowler-ca/mip/palm-olive-car-wash-459600342"
+    },
+    {
+        "name": "Red Carpet Car Wash",
+        "phone": "(559) 292-6565",
+        "address": "801 W Shaw Ave",
+        "rating": "(2)",
+        "details": "Automobile DetailingAuto Repair & ServiceAuto Oil & Lube",
+        "website": "http://www.redcarpetcarwash.com/",
+        "unique_key": "http://www.redcarpetcarwash.com/"
+    },
+    {
+        "name": "Crazy Horse Hand Car Wash",
+        "phone": "(559) 325-0760",
+        "address": "959 Clovis Ave",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://crazyhorsehandcarwash.localsearch.com/",
+        "unique_key": "http://crazyhorsehandcarwash.localsearch.com/"
+    },
+    {
+        "name": "Willow Car Wash",
+        "phone": "(559) 298-0700",
+        "address": "1235 N Willow Ave",
+        "rating": "(1)",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://www.expresslube.com/",
+        "unique_key": "http://www.expresslube.com/"
+    },
+    {
+        "name": "Osornio Car Wash",
+        "phone": "(559) 315-5316",
+        "address": "647 W El Monte Way",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://yellowpages.com/dinuba-ca/mip/osornio-car-wash-460108440",
+        "unique_key": "http://yellowpages.com/dinuba-ca/mip/osornio-car-wash-460108440"
+    },
+    {
+        "name": "Buggy Bath Car Wash",
+        "phone": "(559) 298-8797",
+        "address": "443 W Shaw Ave",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://buggybathcarwash.com/",
+        "unique_key": "http://buggybathcarwash.com/"
+    },
+    {
+        "name": "Surf Thru Express Car Wash",
+        "phone": "(559) 797-4206",
+        "address": "596 W Shaw Ave",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://www.surfthruexpress.com/",
+        "unique_key": "http://www.surfthruexpress.com/"
+    },
+    {
+        "name": "Carranza's Mobile Car Wash",
+        "phone": "(559) 528-3351",
+        "address": "41488 Road 128",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://carranzasmobilecarwash.localsearch.com/",
+        "unique_key": "http://carranzasmobilecarwash.localsearch.com/"
+    },
+    {
+        "name": "Red Carpet Car Wash",
+        "phone": "(559) 283-8202",
+        "address": "4853 E Kings Canyon Rd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://redcarpetcarwash.com/",
+        "unique_key": "http://redcarpetcarwash.com/"
+    },
+    {
+        "name": "Water Wheel Express Car Wash",
+        "phone": "(559) 299-7000",
+        "address": "1750 Villa Ave",
+        "rating": "(2)",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://waterwheelexpress.com/",
+        "unique_key": "http://waterwheelexpress.com/"
+    },
+    {
+        "name": "Culver's Car Wash",
+        "phone": "(559) 591-2112",
+        "address": "1756 E El Monte Way",
+        "rating": "(1)",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://carwash.com/",
+        "unique_key": "http://carwash.com/"
+    },
+    {
+        "name": "Espinoza Mobile Car Wash",
+        "phone": "(559) 800-0117",
+        "address": "1450 S Clovis Ave",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://espinozamobilecarwash.localsearch.com/",
+        "unique_key": "http://espinozamobilecarwash.localsearch.com/"
+    },
+    {
+        "name": "Mckinley Car Wash",
+        "phone": "(559) 237-2886",
+        "address": "3245 E Mckinley Ave",
+        "rating": "(1)",
+        "details": "Automobile DetailingCar WashCleaning Contractors",
+        "website": "http://mckinleycarwash.localsearch.com/",
+        "unique_key": "http://mckinleycarwash.localsearch.com/"
+    },
+    {
+        "name": "Riverpark Express Car Wash",
+        "phone": "(559) 440-9274",
+        "address": "6546 N Blackstone Ave",
+        "rating": "(3)",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://riverparkexpresscarwash.localsearch.com/",
+        "unique_key": "http://riverparkexpresscarwash.localsearch.com/"
+    },
+    {
+        "name": "Ventura Avenue Car Wash",
+        "phone": "(559) 251-1500",
+        "address": "4130 E Cesar Chavez Blvd",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://venturaavenuecarwash.localsearch.com/",
+        "unique_key": "http://venturaavenuecarwash.localsearch.com/"
+    },
+    {
+        "name": "Garcia's Hand Car Wash",
+        "phone": "(559) 408-2784",
+        "address": "2561 S Rowell Ave",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://garciashandcarwash.localsearch.com/",
+        "unique_key": "http://garciashandcarwash.localsearch.com/"
+    },
+    {
+        "name": "Industrial Car Wash Equipment",
+        "phone": "(559) 486-5404",
+        "address": "2040 E Tyler Ave",
+        "rating": "",
+        "details": "Car Washing & Polishing Equipment & Supplies",
+        "unique_key": "(559) 486-5404"
+    },
+    {
+        "name": "Dollar Car Wash",
+        "phone": "(559) 447-8313",
+        "address": "7225 N Blackstone Ave",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://dollarcarwash.localsearch.com/",
+        "unique_key": "http://dollarcarwash.localsearch.com/"
+    },
+    {
+        "name": "Palm Olive Car Wash",
+        "phone": "(559) 264-7271",
+        "address": "1145 N Palm Ave",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://palmolivecarwash.localsearch.com/",
+        "unique_key": "http://palmolivecarwash.localsearch.com/"
+    },
+    {
+        "name": "Buggy Bath Car Wash",
+        "phone": "(559) 439-1445",
+        "address": "7216 N Blackstone Ave",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://chevronwithtechron.com/",
+        "unique_key": "http://chevronwithtechron.com/"
+    },
+    {
+        "name": "Jack's Car Wash",
+        "phone": "(559) 438-8201",
+        "address": "6745 N West Ave",
+        "rating": "(1)",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://jackscarwash.com/",
+        "unique_key": "http://jackscarwash.com/"
+    },
+    {
+        "name": "Velvet Touch Car Wash",
+        "phone": "(559) 645-6630",
+        "address": "37075 Avenue 12",
+        "rating": "",
+        "details": "Automobile DetailingCar Wash",
+        "website": "http://velvettouchcarwashca.localsearch.com/",
+        "unique_key": "http://velvettouchcarwashca.localsearch.com/"
+    }
+]
