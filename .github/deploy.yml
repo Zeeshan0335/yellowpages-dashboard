@@ -1,0 +1,35 @@
+name: Deploy to EC2
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v1.0.3
+
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+
+          script: |
+            cd /opt/yellowpages-dashboard
+
+            git pull origin main
+
+            docker stop yellowpages-app || true
+            docker rm yellowpages-app || true
+
+            docker build -t yellowpages-dashboard .
+
+            docker run -d \
+              --name yellowpages-app \
+              --env-file .env \
+              -p 8000:8000 \
+              yellowpages-dashboard
