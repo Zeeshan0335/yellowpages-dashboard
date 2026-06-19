@@ -1,0 +1,11 @@
+.venv
+.git
+__pycache__
+*.pyc
+*.pyo
+
+output
+*.csv
+*.json
+
+.env
