@@ -2,5 +2,14 @@
 __pycache__/
 *.pyc
 *.pyo
-*.log
+
 .env
+
+output/
+*.csv
+*.json
+
+.vscode/
+.idea/
+
+*.log
