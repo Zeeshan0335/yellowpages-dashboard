@@ -19,15 +19,15 @@ jobs:
           key: ${{ secrets.EC2_SSH_KEY }}
 
           script: |
-            cd /opt/yellowpages-dashboard
+            cd /root/opt/yellowpages-dashboard
 
             git pull origin main
-
+          
             docker stop yellowpages-app || true
             docker rm yellowpages-app || true
-
+          
             docker build -t yellowpages-dashboard .
-
+          
             docker run -d \
               --name yellowpages-app \
               --env-file .env \
