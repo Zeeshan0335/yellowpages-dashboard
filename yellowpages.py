@@ -1,9 +1,13 @@
+import csv
+import json
+import random
+import time
+
 import undetected_chromedriver as uc
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
-import time, random, json, csv
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 
 def pause(x=0.5, y=1.5):
     time.sleep(random.uniform(x, y))
