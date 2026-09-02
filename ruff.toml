@@ -7,4 +7,4 @@ ignore = ["E501"]
 
 [lint.per-file-ignores]
 "tests/*" = ["S101"]
-"yellowpages.py" = ["E722", "E701"]
+"yellowpages.py" = ["E722", "E701", "I001", "E401"]
