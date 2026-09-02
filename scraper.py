@@ -1,3 +1,4 @@
+import os
 import random
 import time
 from datetime import datetime
@@ -9,10 +10,15 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
+MONGODB_URI = os.getenv("MONGODB_URI")
+DB_NAME = os.getenv("MONGODB_DB", "yellowpages_db")
+COLLECTION_NAME = os.getenv("MONGODB_COLLECTION", "businesses")
 
-MONGODB_URI = "mongodb+srv://user1:hSa1x0LsPPgzZBBf@cluster0.iiyxgtt.mongodb.net/?appName=Cluster0"
-DB_NAME = "yellowpages_db"
-COLLECTION_NAME = "businesses"
+if not MONGODB_URI:
+    raise RuntimeError(
+        "MONGODB_URI environment variable is not set. "
+        "Export it or copy .env.example to .env before running the scraper."
+    )
 
 
 def human_delay(a=0.5, b=1.5):

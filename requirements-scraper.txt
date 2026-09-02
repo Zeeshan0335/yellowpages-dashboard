@@ -1,0 +1,5 @@
+# Scraper-only dependencies (Selenium stack), kept separate from the app image.
+undetected-chromedriver==3.5.5
+selenium==4.22.0
+pymongo==4.8.0
+dnspython==2.6.1

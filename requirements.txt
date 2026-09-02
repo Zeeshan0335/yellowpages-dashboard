@@ -1,8 +1,10 @@
-fastapi
-uvicorn
-jinja2
-python-multipart
-pymongo
-pandas
-openpyxl
-dnspython
+# Application runtime dependencies (dashboard/API)
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+jinja2==3.1.4
+python-multipart==0.0.9
+pymongo==4.8.0
+pandas==2.2.2
+openpyxl==3.1.5
+dnspython==2.6.1
+prometheus-fastapi-instrumentator==7.0.0

@@ -1,15 +1,36 @@
+# Production compose: app + nginx reverse proxy.
+# The app image is pulled from the registry (built in CI), not built here.
+
 services:
-
   yellowpages-app:
-
-    build: .
-
+    image: ${IMAGE:-ghcr.io/zeeshan0335/yellowpages-dashboard:latest}
     container_name: yellowpages-app
-
     restart: unless-stopped
-
-    ports:
-      - "8000:8000"
-
     env_file:
       - .env
+    expose:
+      - "8000"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request,sys; sys.exit(0) if urllib.request.urlopen('http://127.0.0.1:8000/health').status==200 else sys.exit(1)"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+
+  nginx:
+    image: nginx:1.27-alpine
+    container_name: yellowpages-nginx
+    restart: unless-stopped
+    depends_on:
+      - yellowpages-app
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/conf.d:/etc/nginx/conf.d:ro
+      - certbot-www:/var/www/certbot:ro
+      - certbot-conf:/etc/letsencrypt:ro
+
+volumes:
+  certbot-www:
+  certbot-conf:

@@ -1,15 +1,22 @@
-.venv/
+# Python
 __pycache__/
 *.pyc
-*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
 
+# Secrets — never commit real env files
 .env
+.env.*
+!.env.example
 
+# Scraper output
 output/
 *.csv
 *.json
 
-.vscode/
-.idea/
-
-*.log
+# OS
+.DS_Store

@@ -1,29 +1,28 @@
-from typing import Optional
-import os
-import io
 import csv
+import io
+import os
+from datetime import datetime
 from math import ceil
-from datetime import datetime, timedelta
 
 import pandas as pd
 from bson import ObjectId
 from fastapi import FastAPI, Form, HTTPException, Request
-from fastapi.responses import (
-    RedirectResponse,
-    StreamingResponse
-)
+from fastapi.responses import JSONResponse, RedirectResponse, StreamingResponse
 from fastapi.templating import Jinja2Templates
-from pymongo import MongoClient, DESCENDING
-
+from prometheus_fastapi_instrumentator import Instrumentator
+from pymongo import DESCENDING, MongoClient
 
 # =====================================================
 # CONFIG
 # =====================================================
 
-MONGODB_URI = os.getenv(
-    "MONGODB_URI",
-    "mongodb+srv://user1:hSa1x0LsPPgzZBBf@cluster0.iiyxgtt.mongodb.net/?appName=Cluster0"
-)
+MONGODB_URI = os.getenv("MONGODB_URI")
+
+if not MONGODB_URI:
+    raise RuntimeError(
+        "MONGODB_URI environment variable is not set. "
+        "Copy .env.example to .env and provide your connection string."
+    )
 
 DB_NAME = os.getenv(
     "MONGODB_DB",
@@ -44,6 +43,9 @@ PAGE_SIZE_OPTIONS = [25, 50, 100, 250]
 app = FastAPI(
     title="Yellow Pages Admin Dashboard"
 )
+
+# Expose Prometheus metrics at /metrics for monitoring.
+Instrumentator().instrument(app).expose(app, endpoint="/metrics")
 
 templates = Jinja2Templates(
     directory="templates"
@@ -157,15 +159,38 @@ def build_search_query(
 
 
 # =====================================================
+# HEALTH / READINESS
+# =====================================================
+
+@app.get("/health")
+def health():
+    """Liveness probe: the process is up and serving requests."""
+    return JSONResponse({"status": "ok"})
+
+
+@app.get("/ready")
+def ready():
+    """Readiness probe: verifies the database connection is reachable."""
+    try:
+        client.admin.command("ping")
+        return JSONResponse({"status": "ready", "database": "connected"})
+    except Exception as exc:  # noqa: BLE001
+        return JSONResponse(
+            {"status": "not-ready", "database": "unavailable", "detail": str(exc)},
+            status_code=503,
+        )
+
+
+# =====================================================
 # DASHBOARD
 # =====================================================
 
 @app.get("/")
 def home(
     request: Request,
-    q: Optional[str] = None,
-    location: Optional[str] = None,
-    has_website: Optional[str] = None,
+    q: str | None = None,
+    location: str | None = None,
+    has_website: str | None = None,
     page: int = 1,
     page_size: int = 50
 ):
@@ -209,10 +234,16 @@ def home(
     )
 
     stats = {
-        "total": 0,
-        "website": 0,
-        "phone": 0,
-        "today": 0
+        "total": collection.count_documents({}),
+        "website": collection.count_documents(
+            {"website": {"$exists": True, "$ne": ""}}
+        ),
+        "phone": collection.count_documents(
+            {"phone": {"$exists": True, "$ne": ""}}
+        ),
+        "today": collection.count_documents(
+            {"scraped_at": {"$gte": today}}
+        ),
     }
     return templates.TemplateResponse(
         name="index.html",
