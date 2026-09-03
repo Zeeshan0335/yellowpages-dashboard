@@ -74,7 +74,7 @@ jobs:
           key: ${{ secrets.EC2_SSH_KEY }}
           script: |
             set -euo pipefail
-            cd /root/opt/yellowpages-dashboard
+            cd /root/ubuntu/yellowpages-dashboard
             git pull origin main
             echo "${{ secrets.GHCR_TOKEN }}" | docker login ghcr.io -u "${{ secrets.GHCR_USER }}" --password-stdin || true
             REPO_LC=$(echo "${{ github.repository }}" | tr '[:upper:]' '[:lower:]')
